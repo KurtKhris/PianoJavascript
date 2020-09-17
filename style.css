@@ -1,0 +1,463 @@
+body {
+    background-color: black;
+ }
+ 
+
+h1 {
+    text-align: center;
+    color: white;
+    font size: 50px;
+    font-weight: bold;
+}
+
+/*.keys{
+    text-align: center;
+    align-items: center;
+}*/
+
+
+.CNote{
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 50;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.CsNote {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 52;
+    margin-left: 20px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 143px;
+}
+
+.DNote {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 51;
+    margin-left: 57px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 143px;
+}
+
+.DsNote {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 18px;
+    z-index: 54;
+    margin-left: 85px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 143px;
+}
+
+.ENote {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 53;
+    margin-left: 114px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 143px;
+}
+
+
+.FNote {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 55;
+    margin-left: 170px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 144px;
+}
+
+.FsNote {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 18px;
+    z-index: 57;
+    margin-left: 187px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 144px;
+}
+
+.GNote {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 56;
+    margin-left: 225px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 144px;
+}
+
+.GsNote {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 18px;
+    z-index: 59;
+    margin-left: 249px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 144px;
+}
+
+
+.ANote {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 58;
+    margin-left: 282px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 144px;
+}
+
+.BNote {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 60;
+    margin-left: 338px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 143px;
+}
+
+.BbNote {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 18px;
+    z-index: 61;
+    margin-left: 313px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 143px;
+}
+
+.C1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 62;
+    margin-left: 394px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Cs1Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 64;
+    margin-left: 414px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+
+.D1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 63;
+    margin-left: 451px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Ds1Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 66;
+    margin-left: 478px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.E1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 65;
+    margin-left: 508px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.F1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 67;
+    margin-left: 564px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Fs1Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 69;
+    margin-left: 581px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.G1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 68;
+    margin-left: 619px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Gs1Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 71;
+    margin-left: 645px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.A1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 70;
+    margin-left: 677px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Bb1Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 73;
+    margin-left: 710px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.B1Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 72;
+    margin-left: 734px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.C2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 74;
+    margin-left: 790px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Cs2Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 76;
+    margin-left: 811px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.D2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 75;
+    margin-left: 847px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Ds2Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 78;
+    margin-left: 877px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.E2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 77;
+    margin-left: 905px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.F2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 79;
+    margin-left: 962px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Fs2Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 81;
+    margin-left: 978px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.G2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 80;
+    margin-left: 1019px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Gs2Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 83;
+    margin-left: 1043px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.A2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 82;
+    margin-left: 1079px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.Bb2Note {
+    color: white;
+    position: absolute;
+    padding: 180px 20px 20px 20px;
+    z-index: 85;
+    margin-left: 1111px;
+    background-color: black;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.B2Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 84;
+    margin-left: 1138px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
+
+.C3Note {
+    color: black;
+    position: absolute;
+    padding: 258px 20px 20px 20px;
+    z-index: 86;
+    margin-left: 1195px;
+    background-color: white;
+    cursor: pointer;
+    left: 175px;
+    top: 142px;
+}
